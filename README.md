@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an introduction to the `dplyr` package in R, written by William Shakespeare. The purpose of this document is to provide a quick overview of essential `dplyr` functions and their application on a dataset.
+This repository contains an introduction to the `dplyr` package in R. The purpose of this document is to provide a quick overview of essential `dplyr` functions and their application on a dataset.
 
 ## Getting Started
 
